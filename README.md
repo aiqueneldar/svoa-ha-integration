@@ -1,0 +1,45 @@
+# SVOA Home Assistant integration
+
+Custom Home Assistant integration for Stockholm Vatten och Avfall (SVOA),
+starting with Returrundan collection locations and schedules.
+
+## Current implementation slice
+
+The first TDD slice implements the Returrundan response parser as a pure Python
+module in `custom_components/svoa/returrundan.py`. It has no Home Assistant
+runtime dependency and parses the supplied API snapshot into immutable,
+typed dataclasses.
+
+The parser currently:
+
+- Parses all 11 areas and 89 locations in the supplied fixture.
+- Splits each `heading` into a location name and address.
+- Extracts Swedish date/time entries from the HTML in `text`.
+- Ignores informational and empty HTML list items.
+- Excludes entries marked with `<s>`, `<strike>`, or `<del>`.
+- Assigns the explicitly supplied calendar year to each schedule date.
+- Provides helpers to select the next visit strictly after an aware datetime.
+
+The integration will supply the current `Europe/Stockholm` calendar year. It
+will not roll an exhausted schedule into the next year or invent unpublished
+visits.
+
+## Development
+
+```bash
+python -m pip install pytest
+pytest -q
+```
+
+Ruff is configured in `pyproject.toml`; install it and run:
+
+```bash
+ruff check .
+ruff format --check .
+```
+
+The next implementation slices are the async HTTP client, Home Assistant
+coordinator/config flow/entities, and their integration tests. The API client
+will use Home Assistant's shared aiohttp session and conservative polling; the
+fixture remains the primary parser regression test and live API requests will
+not be part of the test suite.

@@ -1,0 +1,11 @@
+# Test runner and async test support
+pytest>=8.3
+pytest-asyncio>=1.0
+pytest-homeassistant-custom-component
+
+# HTTP client mocking for API tests (never call the live SVOA API in tests)
+aioresponses
+
+# Static analysis and formatting
+ruff
+mypy

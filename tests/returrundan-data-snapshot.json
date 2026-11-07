@@ -1,0 +1,450 @@
+{
+    "totalHits": 89,
+    "totalCount": 0,
+    "mobileStationAreas": [
+        {
+            "id": "returrundan-225",
+            "name": "Bromma",
+            "count": 11,
+            "type": "returrundan",
+            "mobileStationFindHits": [
+                {
+                    "heading": "Abrahamsberg - Ritarvägen 30, vid Abrahamsbergsskolan",
+                    "text": "<ul><li>Lördag 22 augusti, klockan 11.00–12.00</li><li>Lördag 3 oktober, klockan 11.00–12.00</li><li>Lördag 28 november, klockan 11.00–12.00</li></ul>"
+                },
+                {
+                    "heading": "Alvik - Vidängsvägen 23, vid återvinningsstationen",
+                    "text": "<ul><li>Lördag 22 augusti, klockan 13.30–14.30</li><li>Lördag 3 oktober, klockan 13.30–14.30</li><li>Lördag 28 november, klockan 13.30–14.30</li></ul>"
+                },
+                {
+                    "heading": "Beckomberga - Söderberga allé 80, vid simhallen",
+                    "text": "<ul><li>Onsdag 19 augusti, klockan 19.00–20.00</li><li>Onsdag 7 oktober, klockan 19.00–20.00</li><li>Onsdag 25 november, klockan 19.00–20.00</li></ul>"
+                },
+                {
+                    "heading": "Blackeberg - Blackebergsplan",
+                    "text": "<ul><li>Lördag 22 augusti, klockan 09.00–10.00</li><li>Lördag 3 oktober, klockan 09.00–10.00</li><li>Lördag 28 november, klockan 09.00–10.00</li></ul>"
+                },
+                {
+                    "heading": "Brommaplan - Riksbyvägen 14, vid vändplatsen",
+                    "text": "<ul><li>Onsdag 19 augusti, klockan 17.00–18.00</li><li>Onsdag 7 oktober, klockan 17.00–18.00</li><li>Onsdag 25 november, klockan 17.00–18.00</li></ul>"
+                },
+                {
+                    "heading": "Mariehäll - Mariehällstorget",
+                    "text": "<ul><li>Torsdag 23 juli, klockan 19.00–20.00</li><li>Torsdag 10 september, klockan 19.00–20.00</li><li>Torsdag 29 oktober, klockan 19.00–20.00</li></ul>"
+                },
+                {
+                    "heading": "Nockeby - Backskåran 7, vid vändplats",
+                    "text": "<ul><li><B>OBS!</b> Stoppet byter tid från och med september pga. framkomlighetsproblem.</li><li></br></li><li>Lördag 5 september, klockan 13.30–14.30</li><li>Lördag 10 oktober, klockan 13.30–14.30</li><li>Lördag 5 december, klockan 13.30–14.30</li></ul>"
+                },
+                {
+                    "heading": "Nockeby - Tyska Bottens väg 1, vid Nockebybron",
+                    "text": "<ul><li>Lördag 5 september, klockan 15.30–16.30</li><li>Lördag 10 oktober, klockan 15.30–16.30</li><li>Lördag 5 december, klockan 15.30–16.30</li></ul>"
+                },
+                {
+                    "heading": "Stora mossen - Sobelgränd 1",
+                    "text": "<ul><li><B>OBS!</b> Stoppet byter tid från och med september pga. framkomlighetsproblem.</li><li></br></li><li>Lördag 5 september, klockan 09.00–10.00</li><li>Lördag 10 oktober, klockan 09.00–10.00</li><li>Lördag 5 december, klockan 09.00–10.00</li></ul>"
+                },
+                {
+                    "heading": "Ålsten - Nyängsvägen 74/Ålstensgatan",
+                    "text": "<ul><li>Lördag 5 september, klockan 11.00–12.00</li><li>Lördag 10 oktober, klockan 11.00–12.00</li><li>Lördag 5 december, klockan 11.00–12.00</li></ul>"
+                },
+                {
+                    "heading": "Ängby - Vultejusvägen 64",
+                    "text": "<ul><li>Lördag 22 augusti, klockan 15.30–16.30</li><li>Lördag 3 oktober, klockan 15.30–16.30</li><li>Lördag 28 november, klockan 15.30–16.30</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": "returrundan-224",
+            "name": "Enskede-Årsta-Vantör",
+            "count": 5,
+            "type": "returrundan",
+            "mobileStationFindHits": [
+                {
+                    "heading": "Gullmarsplan - Gullmarsplan 2",
+                    "text": "<ul><li>Torsdag 20 augusti, klockan 17.00–18.00</li><li>Torsdag 8 oktober, klockan 17.00–18.00</li><li>Torsdag 26 november, klockan 17.00–18.00</li></ul>"
+                },
+                {
+                    "heading": "Hagsätra - Kvarntorpsgränd 10, vid vändplatsen",
+                    "text": "<ul><li>Söndag 28 juni, klockan 15.30–16.30</li><li>Söndag 9 augusti, klockan 15.30–16.30</li><li>Söndag 27 september, klockan 15.30–16.30</li><li>Söndag 15 november, klockan 15.30–16.30</li></ul>"
+                },
+                {
+                    "heading": "Högdalen - Ragnstaplan 1, vid Högdalen centrum ",
+                    "text": "<ul><li>Torsdag 25 juni, klockan 17.00–18.00</li><li>Torsdag 3 september, klockan 17.00–18.00</li><li>Torsdag 22 oktober, klockan 17.00–18.00</li><li>Torsdag 10 december, klockan 17.00–18.00</li></ul>"
+                },
+                {
+                    "heading": "Sandsborg - Åsgärdevägen 30, bakom Dalens centrum",
+                    "text": "<ul><li>Torsdag 25 juni, klockan 19.00–20.00</li><li>Torsdag 3 september, klockan 19.00–20.00</li><li>Torsdag 22 oktober, klockan 19.00–20.00</li><li>Torsdag 10 december, klockan 19.00–20.00</li></ul>"
+                },
+                {
+                    "heading": "Årsta - Årstavägen 44, vid Årsta torg",
+                    "text": "<ul><li>Onsdag 24 juni, klockan 19.00–20.00</li><li>Torsdag 20 augusti, klockan 19.00–20.00</li><li>Onsdag 2 september, klockan 19.00–20.00</li><li>Torsdag 8 oktober, klockan 19.00–20.00</li><li>Onsdag 21 oktober, klockan 19.00–20.00</li><li>Torsdag 26 november, klockan 19.00–20.00</li><li>Onsdag 9 december, klockan 19.00–20.00</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": "returrundan-223",
+            "name": "Farsta",
+            "count": 4,
+            "type": "returrundan",
+            "mobileStationFindHits": [
+                {
+                    "heading": "Farsta centrum - Farstavägen 116, vid Farsta grundskola",
+                    "text": "<ul><li>Söndag 16 augusti, klockan 11.00–12.00</li><li>Söndag 4 oktober, klockan 11.00–12.00</li><li>Söndag 22 november, klockan 11.00–12.00</li></ul>"
+                },
+                {
+                    "heading": "Farsta strand - Farsta strandplan 15, vid Coops lastkaj",
+                    "text": "<ul><li>Söndag 16 augusti, klockan 09.00–10.00</li><li>Söndag 4 oktober, klockan 09.00–10.00</li><li>Söndag 22 november, klockan 09.00–10.00</li></ul>"
+                },
+                {
+                    "heading": "Gubbängen - Gubbängsvägen 119",
+                    "text": "<ul><li>Söndag 16 augusti, klockan 13.30–14.30</li><li>Söndag 4 oktober, klockan 13.30–14.30</li><li>Söndag 22 november, klockan 13.30–14.30</li></ul>"
+                },
+                {
+                    "heading": "Sköndal - Mickel bagares gränd, vändplatsen vid Sandåkra IP",
+                    "text": "<ul><li>Söndag 16 augusti, klockan 15.30–16.30</li><li>Söndag 4 oktober, klockan 15.30–16.30</li><li>Söndag 22 november, klockan 15.30–16.30</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": "returrundan-222",
+            "name": "Hägersten-Älvsjö",
+            "count": 10,
+            "type": "returrundan",
+            "mobileStationFindHits": [
+                {
+                    "heading": "Aspudden - Hövdingagatan/Blommensbergsvägen vid återvinningsstationen",
+                    "text": "<ul><li>Söndag 26 juli, klockan 11.00–12.00</li><li>Söndag 13 september, klockan 11.00–12.00</li><li>Söndag 1 november, klockan 11.00–12.00</li></ul>"
+                },
+                {
+                    "heading": "Axelsberg - Hägerstens torg, vid Axelsberg centrum",
+                    "text": "<ul><li>Söndag 26 juli, klockan 09.00–10.00</li><li>Söndag 13 september, klockan 09.00–10.00</li><li>Söndag 1 november, klockan 09.00–10.00</li></ul>"
+                },
+                {
+                    "heading": "Fruängen - Elsa Borgs gata 70, vid vändplatsen",
+                    "text": "<ul><li>Lördag 25 juli, klockan 09.00–10.00</li><li>Söndag 20 september, klockan 09.00–10.00</li><li>Söndag 8 november, klockan 09.00–10.00</li></ul>"
+                },
+                {
+                    "heading": "Gröndal - Lövholmsvägen 85, vid förskolan Gröndalsgården",
+                    "text": "<ul><li>Söndag 26 juli, klockan 13.30–14.30</li><li>Söndag 13 september, klockan 13.30–14.30</li><li>Söndag 1 november, klockan 13.30–14.30</li></ul>"
+                },
+                {
+                    "heading": "Hägerstensåsen - Riksdalertorget, vid Hägerstensåsens medborgarhus",
+                    "text": "<ul><li>Söndag 26 juli, klockan 15.30–16.30</li><li>Onsdag 26 augusti, klockan 17.00–18.00</li><li>Söndag 13 september, klockan 15.30–16.30</li><li>Onsdag 14 oktober, klockan 17.00–18.00</li><li>Söndag 1 november, klockan 15.30–16.30</li><li>Onsdag 2 december, klockan 17.00–18.00</li></ul>"
+                },
+                {
+                    "heading": "Liljeholmskajen - Sjövikstorget, vid kajen",
+                    "text": "<ul><li>Lördag 25 juli, klockan 15.30–16.30</li><li>Söndag 20 september, klockan 15.30–16.30</li><li>Söndag 8 november, klockan 15.30–16.30</li></ul>"
+                },
+                {
+                    "heading": "Midsommarkransen - Oktobergatan 4, vid Svandammsparken",
+                    "text": "<ul><li>Lördag 25 juli, klockan 13.30–14.30</li><li>Söndag 20 september, klockan 13.30–14.30</li><li>Söndag 8 november, klockan 13.30–14.30</li></ul>"
+                },
+                {
+                    "heading": "Nybohov - Nybohovsgränd 20",
+                    "text": "<ul><li>Lördag 25 juli, klockan 11.00–12.00</li><li>Söndag 20 september, klockan 11.00–12.00</li><li>Söndag 8 november, klockan 11.00–12.00</li></ul>"
+                },
+                {
+                    "heading": "Västertorp - Västertorpsplan",
+                    "text": "<ul><li>Onsdag 22 april, klockan 19.00–20.00</li><li>Onsdag 10 juni, klockan 19.00–20.00</li><li>Onsdag 26 augusti, klockan 19.00–20.00</li><li>Onsdag 14 oktober, klockan 19.00–20.00</li><li>Onsdag 2 december, klockan 19.00–20.00</li></ul>"
+                },
+                {
+                    "heading": "Älvsjö - Älvsjö torg",
+                    "text": "<ul><li>Torsdag 13 augusti, klockan 19.00–20.00</li><li>Torsdag 1 oktober, klockan 19.00–20.00</li><li>Torsdag 19 november, klockan 19.00–20.00</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": "returrundan-221",
+            "name": "Hässelby-Vällingby",
+            "count": 4,
+            "type": "returrundan",
+            "mobileStationFindHits": [
+                {
+                    "heading": "Hässelby gård - Hässelby torg/Loviselundsvägen, bakom Systembolaget",
+                    "text": "<ul><li>Lördag 8 augusti, klockan 11.00–12.00</li><li>Lördag 12 september, klockan 11.00–12.00</li><li>Lördag 14 november, klockan 11.00–12.00</li></ul>"
+                },
+                {
+                    "heading": "Hässelby strand - Maltesholmsvägen 150",
+                    "text": "<ul><li>Lördag 8 augusti, klockan 13.30–14.30</li><li>Lördag 12 september, klockan 13.30–14.30</li><li>Lördag 14 november, klockan 13.30–14.30</li></ul>"
+                },
+                {
+                    "heading": "Råcksta - Håsjögränd 8, vid parkeringsplatsen",
+                    "text": "<ul><li>Lördag 8 augusti, klockan 09.00–10.00</li><li>Lördag 12 september, klockan 09.00–10.00</li><li>Lördag 14 november, klockan 09.00–10.00</li></ul>"
+                },
+                {
+                    "heading": "Vällingby - Vittangiplan 24, vid Vällingby centrum",
+                    "text": "<ul><li>Lördag 8 augusti, klockan 15.30–16.30</li><li>Lördag 12 september, klockan 15.30–16.30</li><li>Lördag 14 november, klockan 15.30–16.30</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": "returrundan-232",
+            "name": "Järva",
+            "count": 8,
+            "type": "returrundan",
+            "mobileStationFindHits": [
+                {
+                    "heading": "Akalla - Torneågatan 13, vid vändplatsen",
+                    "text": "<ul><li>Lördag 25 juli, klockan 11.00–12.00</li><li>Lördag 26 september, klockan 11.00–12.00</li><li>Lördag 31 oktober, klockan 11.00–12.00</li></ul>"
+                },
+                {
+                    "heading": "Akalla - Villmansstrandsgatan 2",
+                    "text": "<ul><li>Lördag 25 juli, klockan 13.30–14.30</li><li>Lördag 26 september, klockan 13.30–14.30</li><li>Lördag 31 oktober, klockan 13.30–14.30</li></ul>"
+                },
+                {
+                    "heading": "Bromsten - Bromstens plan 3, vid torget",
+                    "text": "<ul><li>Lördag 1 augusti, klockan 09.00–10.00</li><li>Lördag 19 september, klockan 09.00–10.00</li><li>Lördag 7 november, klockan 09.00–10.00</li></ul>"
+                },
+                {
+                    "heading": "Hjulsta - Hjulsta torg vid Hjulsta backar 3, utanför förskolan Månstugan",
+                    "text": "<ul><li>Lördag 23 maj, klockan 11.00–12.00</li><li>Lördag 1 augusti, klockan 11.00–12.00</li><li>Lördag 19 september, klockan 11.00–12.00</li><li>Lördag 7 november, klockan 11.00–12.00</li></ul>"
+                },
+                {
+                    "heading": "Husby - Oslogatan 18A, vid vändplatsen",
+                    "text": "<ul><li>Lördag 25 juli, klockan 09.00–10.00</li><li>Lördag 26 september, klockan 09.00–10.00</li><li>Lördag 31 oktober, klockan 09.00–10.00</li></ul>"
+                },
+                {
+                    "heading": "Kista - Ärvingegången 23/Vejlegatan, vid Kista kyrka",
+                    "text": "<ul><li>Lördag 25 juli, klockan 15.30–16.30</li><li>Lördag 26 september, klockan 15.30–16.30</li><li>Lördag 31 oktober, klockan 15.30–16.30</li></ul>"
+                },
+                {
+                    "heading": "Solhem - Spånga torg, vid Coop",
+                    "text": "<ul><li>Torsdag 23 juli, klockan 17.00–18.00</li><li>Lördag 1 augusti, klockan 13.30–14.30</li><li>Torsdag 10 september, klockan 17.00–18.00</li><li>Lördag 19 september, klockan 13.30–14.30</li><li>Torsdag 29 oktober, klockan 17.00–18.00</li><li>Lördag 7 november, klockan 13.30–14.30</li></ul>"
+                },
+                {
+                    "heading": "Tensta - Tenstaplan 6, vid Blå huset",
+                    "text": "<ul><li>Lördag 1 augusti, klockan 15.30–16.30</li><li>Lördag 19 september, klockan 15.30–16.30</li><li>Lördag 7 november, klockan 15.30–16.30</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": "returrundan-220",
+            "name": "Kungsholmen",
+            "count": 11,
+            "type": "returrundan",
+            "mobileStationFindHits": [
+                {
+                    "heading": "Fredhäll - Messeniusgatan 2, vid vändplatsen",
+                    "text": "<ul><li>Torsdag 27 augusti, klockan 19.00–20.00</li><li>Torsdag 15 oktober, klockan 19.00–20.00</li><li>Torsdag 3 december, klockan 19.00–20.00</li></ul>"
+                },
+                {
+                    "heading": "Hornsberg - Kristinebergs strand 2",
+                    "text": "<ul><li>Söndag 30 augusti, klockan 13.30–14.30</li><li>Söndag 11 oktober, klockan 13.30–14.30</li><li>Söndag 6 december, klockan 13.30–14.30</li></ul>"
+                },
+                {
+                    "heading": "Kristineberg - Kristinebergs slottsväg 22, vid Kristinebergsskolan",
+                    "text": "<ul><li>Söndag 2 augusti, klockan 15.30–16.30</li><li>Lördag 19 september, klockan 15.30–16.30</li><li>Lördag 7 november, klockan 15.30–16.30</li></ul>"
+                },
+                {
+                    "heading": "Kungsholmen - Hantverkargatan 67-69, vid entrén till Kungsholmens gymnasium",
+                    "text": "<ul><li>Söndag 2 augusti, klockan 09.00–10.00</li><li>Lördag 19 september, klockan 09.00–10.00</li><li>Lördag 7 november, klockan 09.00–10.00</li></ul>"
+                },
+                {
+                    "heading": "Kungsholmen - Kaplansbacken 7",
+                    "text": "<ul><li>Torsdag 6 augusti, klockan 17.00–18.00</li><li>Torsdag 24 september, klockan 17.00–18.00</li><li>Torsdag 12 november, klockan 17.00–18.00</li></ul>"
+                },
+                {
+                    "heading": "Kungsholmen - Kungsholms strand 103, vid vändplatsen",
+                    "text": "<ul><li>Torsdag 27 augusti, klockan 17.00–18.00</li><li>Torsdag 15 oktober, klockan 17.00–18.00</li><li>Torsdag 3 december, klockan 17.00–18.00</li></ul>"
+                },
+                {
+                    "heading": "Lilla Essingen - Primusgatan 116",
+                    "text": "<ul><li>Söndag 30 augusti, klockan 15.30–16.30</li><li>Söndag 11 oktober, klockan 15.30–16.30</li><li>Söndag 6 december, klockan 15.30–16.30</li></ul>"
+                },
+                {
+                    "heading": "Marieberg - Konradbergsgatan 12A, vid Montessori Mondial",
+                    "text": "<ul><li>Söndag 2 augusti, klockan 13.30–14.30</li><li>Lördag 19 september, klockan 13.30–14.30</li><li>Lördag 7 november, klockan 13.30–14.30</li></ul>"
+                },
+                {
+                    "heading": "Stadshagen - Igeldammsgatan 5",
+                    "text": "<ul><li>Söndag 30 augusti, klockan 11.00–12.00</li><li>Söndag 11 oktober, klockan 11.00–12.00</li><li>Söndag 6 december, klockan 11.00–12.00</li></ul>"
+                },
+                {
+                    "heading": "Stora Essingen - Gammelgårdsvägen 42, vid vändplatsen bakom IOGT-NTO",
+                    "text": "<ul><li>Torsdag 6 augusti, klockan 19.00–20.00</li><li>Söndag 30 augusti, klockan 09.00–10.00</li><li>Torsdag 24 september, klockan 19.00–20.00</li><li>Söndag 11 oktober, klockan 09.00–10.00</li><li>Torsdag 12 november, klockan 19.00–20.00</li><li>Söndag 6 december, klockan 09.00–10.00</li></ul>"
+                },
+                {
+                    "heading": "Thorildsplan - Hjalmar Söderbergs väg, vid Thorildsplans gymnasiums parkering",
+                    "text": "<ul><li>Söndag 2 augusti, klockan 11.00–12.00</li><li>Lördag 19 september, klockan 11.00–12.00</li><li>Lördag 7 november, klockan 11.00–12.00</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": "returrundan-231",
+            "name": "Norra innerstaden",
+            "count": 13,
+            "type": "returrundan",
+            "mobileStationFindHits": [
+                {
+                    "heading": " Hjorthagen - Jägmästargatan 25/Porjusvägen, vid Hjorthagens skola",
+                    "text": "<ul><li>Lördag 15 augusti, klockan 13.30–14.30</li><li>Lördag 3 oktober, klockan 13.30–14.30</li><li>Lördag 21 november, klockan 13.30–14.30</li></ul>"
+                },
+                {
+                    "heading": "Ekhagen - Professorsslingan 55",
+                    "text": "<ul><li>Lördag 27 juni, klockan 13.30–14.30</li><li>Onsdag 5 augusti, klockan 19.00–20.00</li><li>Lördag 5 september, klockan 13.30–14.30</li><li>Onsdag 23 september, klockan 19.00–20.00</li><li>Lördag 24 oktober, klockan 13.30–14.30</li><li>Onsdag 11 november, klockan 19.00–20.00</li><li>Lördag 12 december, klockan 13.30–14.30</li></ul>"
+                },
+                {
+                    "heading": "Gärdet - Kampementsgatan 2, vid Värtavägen",
+                    "text": "<ul><li>Lördag 27 juni, klockan 11.00–12.00</li><li>Onsdag 5 augusti, klockan 17.00–18.00</li><li>Lördag 5 september, klockan 11.00–12.00</li><li>Onsdag 23 september, klockan 17.00–18.00</li><li>Lördag 24 oktober, klockan 11.00–12.00</li><li>Onsdag 11 november, klockan 17.00–18.00</li><li>Lördag 12 december, klockan 11.00–12.00</li></ul>"
+                },
+                {
+                    "heading": "Gärdet - Östhammarsgatan 64",
+                    "text": "<ul><li>Onsdag 29 juli, klockan 19.00–20.00</li><li>Onsdag 16 september, klockan 19.00–20.00</li><li>Onsdag 4 november, klockan 19.00–20.00</li></ul>"
+                },
+                {
+                    "heading": "Norra Djurgårdsstaden - Fågelhundsgatan 6, vid förskolan",
+                    "text": "<ul><li>Lördag 15 augusti, klockan 11.00–12.00</li><li>Lördag 3 oktober, klockan 11.00–12.00</li><li>Lördag 21 november, klockan 11.00–12.00</li></ul>"
+                },
+                {
+                    "heading": "Norrmalm - Lilla Bantorget",
+                    "text": "<ul><li>Tisdag 11 augusti, klockan 17.00–18.00</li><li>Tisdag 29 september, klockan 17.00–18.00</li><li>Tisdag 17 november, klockan 17.00–18.00</li></ul>"
+                },
+                {
+                    "heading": "Vasastan - Sankt Eriksplan 13",
+                    "text": "<ul><li>Onsdag 22 juli, klockan 19.00–20.00</li><li>Tisdag 11 augusti, klockan 19.00–20.00</li><li>Lördag 29 augusti, klockan 09.00–10.00</li><li>Onsdag 9 september, klockan 19.00–20.00</li><li>Lördag 26 september, klockan 09.00–10.00</li><li>Tisdag 29 september, klockan 19.00–20.00</li><li>Onsdag 28 oktober, klockan 19.00–20.00</li><li>Lördag 14 november, klockan 09.00–10.00</li><li>Tisdag 17 november, klockan 19.00–20.00</li></ul>"
+                },
+                {
+                    "heading": "Vasastan - Tulegatan 14, vid P-hus Norra Real",
+                    "text": "<ul><li>Lördag 29 augusti, klockan 11.00–12.00</li><li>Lördag 26 september, klockan 11.00–12.00</li><li>Lördag 14 november, klockan 11.00–12.00</li></ul>"
+                },
+                {
+                    "heading": "Vasastan - Upplandsgatan 102, vändplats vid Rödabergsskolan",
+                    "text": "<ul><li>Lördag 29 augusti, klockan 13.30–14.30</li><li>Lördag 26 september, klockan 13.30–14.30</li><li>Lördag 14 november, klockan 13.30–14.30</li></ul>"
+                },
+                {
+                    "heading": "Vasastan - Vanadisvägen 14, vid Matteusskolan",
+                    "text": "<ul><li>Lördag 29 augusti, klockan 15.30–16.30</li><li>Lördag 26 september, klockan 15.30–16.30</li><li>Lördag 14 november, klockan 15.30–16.30</li></ul>"
+                },
+                {
+                    "heading": "Östermalm - Banérgatan 10, vid vändplatsen",
+                    "text": "<ul><li>Lördag 27 juni, klockan 09.00–10.00</li><li>Onsdag 29 juli, klockan 17.00–18.00</li><li>Lördag 5 september, klockan 09.00–10.00</li><li>Onsdag 16 september, klockan 17.00–18.00</li><li>Lördag 24 oktober, klockan 09.00–10.00</li><li>Onsdag 4 november, klockan 17.00–18.00</li><li>Lördag 12 december, klockan 09.00–10.00</li></ul>"
+                },
+                {
+                    "heading": "Östermalm - Erik Dahlbergsallén 1, vid Karlaplan",
+                    "text": "<ul><li>Onsdag 22 juli, klockan 17.00–18.00</li><li>Lördag 15 augusti, klockan 09.00–10.00</li><li>Tisdag 25 augusti, klockan 17.00–18.00</li><li>Onsdag 9 september, klockan 17.00–18.00</li><li>Lördag 3 oktober, klockan 09.00–10.00</li><li>Tisdag 13 oktober, klockan 17.00–18.00</li><li>Onsdag 28 oktober, klockan 17.00–18.00</li><li>Lördag 21 november, klockan 09.00–10.00</li><li>Tisdag 1 december, klockan 17.00–18.00</li></ul>"
+                },
+                {
+                    "heading": "Östermalm - Olaus Petrigatan 1, vid Olaus Petri skola",
+                    "text": "<ul><li>Lördag 15 augusti, klockan 15.30–16.30</li><li>Lördag 3 oktober, klockan 15.30–16.30</li><li>Lördag 21 november, klockan 15.30–16.30</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": "returrundan-217",
+            "name": "Skarpnäck",
+            "count": 5,
+            "type": "returrundan",
+            "mobileStationFindHits": [
+                {
+                    "heading": "Bagarmossen - Lillåvägen 68",
+                    "text": "<ul><li>Lördag 22 augusti, klockan 13.30–14.30</li><li>Lördag 17 oktober, klockan 13.30–14.30</li><li>Lördag 5 december, klockan 13.30–14.30</li></ul>"
+                },
+                {
+                    "heading": "Björkhagen - Peters park/Halmstadsvägen 11",
+                    "text": "<ul><li>Lördag 22 augusti, klockan 15.30–16.30</li><li>Lördag 17 oktober, klockan 15.30–16.30</li><li>Lördag 5 december, klockan 15.30–16.30</li></ul>"
+                },
+                {
+                    "heading": "Hammarbyhöjden - Finn Malmgrens plan 13, vid T-banan",
+                    "text": "<ul><li>Lördag 22 augusti, klockan 09.00–10.00</li><li>Lördag 17 oktober, klockan 09.00–10.00</li><li>Lördag 5 december, klockan 09.00–10.00</li></ul>"
+                },
+                {
+                    "heading": "Kärrtorp - Holmögaddsvägen 1, vid återvinningsstationen",
+                    "text": "<ul><li>Lördag 22 augusti, klockan 11.00–12.00</li><li>Lördag 17 oktober, klockan 11.00–12.00</li><li>Lördag 5 december, klockan 11.00–12.00</li></ul>"
+                },
+                {
+                    "heading": "Skarpnäck - Brandparken, vid Skarpnäcks allé",
+                    "text": "<ul><li>Torsdag 13 augusti, klockan 17.00–18.00</li><li>Torsdag 1 oktober, klockan 17.00–18.00</li><li>Torsdag 19 november, klockan 17.00–18.00</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": "returrundan-216",
+            "name": "Skärholmen",
+            "count": 4,
+            "type": "returrundan",
+            "mobileStationFindHits": [
+                {
+                    "heading": "Bredäng - Concordiavägen 8, vid vändplatsen",
+                    "text": "<ul><li>Lördag 1 augusti, klockan 09.00–10.00</li><li>Lördag 12 september, klockan 09.00–10.00</li><li>Lördag 31 oktober, klockan 09.00–10.00</li></ul>"
+                },
+                {
+                    "heading": "Sätra - Frösätrabacken 7, vid vändplatsen",
+                    "text": "<ul><li>Lördag 1 augusti, klockan 11.00–12.00</li><li>Lördag 12 september, klockan 11.00–12.00</li><li>Lördag 31 oktober, klockan 11.00–12.00</li></ul>"
+                },
+                {
+                    "heading": "Sätra - Torvsätravägen 20, vid Sätra centrum",
+                    "text": "<ul><li>Lördag 1 augusti, klockan 13.30–14.30</li><li>Lördag 12 september, klockan 13.30–14.30</li><li>Lördag 31 oktober, klockan 13.30–14.30</li></ul>"
+                },
+                {
+                    "heading": "Vårberg - Vårbergsplan 1, vid Vårberg centrum",
+                    "text": "<ul><li>Lördag 1 augusti, klockan 15.30–16.30</li><li>Lördag 12 september, klockan 15.30–16.30</li><li>Lördag 31 oktober, klockan 15.30–16.30</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": "returrundan-214",
+            "name": "Södermalm",
+            "count": 14,
+            "type": "returrundan",
+            "mobileStationFindHits": [
+                {
+                    "heading": "Gamla stan - Skeppsbron 15, vid kajen",
+                    "text": "<ul><li>Lördag 27 juni, klockan 15.30–16.30</li><li>Tisdag 25 augusti, klockan 19.00–20.00</li><li>Lördag 5 september, klockan 15.30–16.30</li><li>Tisdag 13 oktober, klockan 19.00–20.00</li><li>Lördag 24 oktober, klockan 15.30–16.30</li><li>Tisdag 1 december, klockan 19.00–20.00</li><li>Lördag 12 december, klockan 15.30–16.30</li></ul>"
+                },
+                {
+                    "heading": "Hammarby sjöstad - Jan Inghes torg 40",
+                    "text": "<ul><li>Söndag 23 augusti, klockan 09.00–10.00</li><li>Söndag 18 oktober, klockan 09.00–10.00</li><li>Söndag 29 november, klockan 09.00–10.00</li></ul>"
+                },
+                {
+                    "heading": "Hornstull - Verkstadsgatan 1",
+                    "text": "<ul><li>Torsdag 30 juli, klockan 19.00–20.00</li><li>Söndag 23 augusti, klockan 13.30–14.30</li><li>Torsdag 17 september, klockan 19.00–20.00</li><li>Söndag 18 oktober, klockan 13.30–14.30</li><li>Torsdag 5 november, klockan 19.00–20.00</li><li>Söndag 29 november, klockan 13.30–14.30</li></ul>"
+                },
+                {
+                    "heading": "Högalid - Brännkyrkagatan/Kristinehovsgatan",
+                    "text": "<ul><li>Torsdag 30 juli, klockan 17.00–18.00</li><li>Torsdag 17 september, klockan 17.00–18.00</li><li>Torsdag 5 november, klockan 17.00–18.00</li></ul>"
+                },
+                {
+                    "heading": "Reimersholme - Vindragarvägen 12",
+                    "text": "<ul><li>Tisdag 28 juli, klockan 19.00–20.00</li><li>Söndag 23 augusti, klockan 15.30–16.30</li><li>Tisdag 15 september, klockan 19.00–20.00</li><li>Söndag 18 oktober, klockan 15.30–16.30</li><li>Tisdag 3 november, klockan 19.00–20.00</li><li>Söndag 29 november, klockan 15.30–16.30</li></ul>"
+                },
+                {
+                    "heading": "Södermalm - Bohusgatan 28, vid Skanstullshallen",
+                    "text": "<ul><li><b>Obs!</b> Samtliga tre stopp nedan är inställda p.g.a utrymmesbrist på platsen.</li><li><s>Lördag 8 augusti, klockan 09.00–10.00</li><li>Lördag 10 oktober, klockan 09.00–10.00</li><li>Lördag 28 november, klockan 09.00–10.00</s></li></ul>"
+                },
+                {
+                    "heading": "Södermalm - Bysistorget 9",
+                    "text": "<ul><li>Onsdag 24 juni, klockan 17.00–18.00</li><li>Lördag 8 augusti, klockan 11.00–12.00</li><li>Onsdag 2 september, klockan 17.00–18.00</li><li>Lördag 10 oktober, klockan 11.00–12.00</li><li>Onsdag 21 oktober, klockan 17.00–18.00</li><li>Lördag 28 november, klockan 11.00–12.00</li><li>Onsdag 9 december, klockan 17.00–18.00</li></ul>"
+                },
+                {
+                    "heading": "Södermalm - Medborgarplatsen",
+                    "text": "<ul><li>Söndag 28 juni, klockan 11.00–12.00</li><li>Söndag 9 augusti, klockan 11.00–12.00</li><li>Söndag 27 september, klockan 11.00–12.00</li><li>Söndag 15 november, klockan 11.00–12.00</li></ul>"
+                },
+                {
+                    "heading": "Södermalm - Nytorget 7, bredvid lekplatsen",
+                    "text": "<ul><li>Söndag 23 augusti, klockan 11.00–12.00</li><li>Söndag 18 oktober, klockan 11.00–12.00</li><li>Söndag 29 november, klockan 11.00–12.00</li></ul>"
+                },
+                {
+                    "heading": "Södermalm - Ragvaldsgatan 23, vid Södra Latins gymnasium",
+                    "text": "<ul><li>Söndag 28 juni, klockan 09.00–10.00</li><li>Lördag 8 augusti, klockan 13.30–14.30</li><li>Söndag 9 augusti, klockan 09.00–10.00</li><li>Söndag 27 september, klockan 09.00–10.00</li><li>Lördag 10 oktober, klockan 13.30–14.30</li><li>Söndag 15 november, klockan 09.00–10.00</li><li>Lördag 28 november, klockan 13.30–14.30</li></ul>"
+                },
+                {
+                    "heading": "Södermalm - Tjärhovsgatan 60, vid vändplatsen",
+                    "text": "<ul><li>Tisdag 28 juli, klockan 17.00–18.00</li><li>Tisdag 15 september, klockan 17.00–18.00</li><li>Tisdag 3 november, klockan 17.00–18.00</li></ul>"
+                },
+                {
+                    "heading": "Södermalm - Vartoftagatan 49, vid Åsö vuxengymnasium ",
+                    "text": "<ul><li>Söndag 28 juni, klockan 13.30–14.30</li><li>Lördag 8 augusti, klockan 15.30–16.30</li><li>Söndag 9 augusti, klockan 13.30–14.30</li><li>Söndag 27 september, klockan 13.30–14.30</li><li>Lördag 10 oktober, klockan 15.30–16.30</li><li>Söndag 15 november, klockan 13.30–14.30</li><li>Lördag 28 november, klockan 15.30–16.30</li></ul>"
+                },
+                {
+                    "heading": "Södermalm - Vickergatan/Eriksdalsgatan",
+                    "text": "<ul><li>Onsdag 12 augusti, klockan 19.00–20.00</li><li>Onsdag 30 september, klockan 19.00–20.00</li><li>Onsdag 18 november, klockan 19.00–20.00</li></ul>"
+                },
+                {
+                    "heading": "Zinkensdamm - Hornskroken/Krukmakargatan",
+                    "text": "<ul><li>Onsdag 12 augusti, klockan 17.00–18.00</li><li>Onsdag 30 september, klockan 17.00–18.00</li><li>Onsdag 18 november, klockan 17.00–18.00</li></ul>"
+                }
+            ]
+        }
+    ]
+}
